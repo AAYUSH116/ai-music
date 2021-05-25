@@ -1,0 +1,22 @@
+.heading{
+    margin: 20px;
+    padding: 10px;
+    box-shadow: red;
+    font-weight: bold;
+}
+
+canvas{
+    box-shadow: red;
+    margin: 25px;
+    padding: 25px;
+    background-color: skyblue;
+    border: 2px double gray;
+}
+body{
+    background-size: cover;
+}
+.notice{
+    margin: 25;
+    padding: 25px;
+    font-weight: bold;
+}
